@@ -1,0 +1,45 @@
+.links{ 
+        text-decoration: underline;
+
+}
+
+.button{ 
+        background-color: aqua;
+        color: blue;
+        padding: 30px;
+        font-size: 25px;
+        cursor: pointer;
+}
+
+.about{ 
+        font-size: larger;
+        text-decoration: aqua;
+
+}
+
+.flex-container{
+        font-size: larger;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        flex-basis: 35%;
+        text-decoration: aqua;
+}       
+
+.phone{
+        text-decoration-line: underline;
+        font-size: larger;
+        text-decoration: aqua;
+}
+
+.email{
+        text-decoration-line: underline;
+        font-size: larger;
+        text-decoration: aqua;
+}
+
+.git{
+        text-decoration-line: underline;
+        font-size: larger;
+        text-decoration: aqua;
+}
