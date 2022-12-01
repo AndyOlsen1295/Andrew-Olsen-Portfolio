@@ -4,6 +4,11 @@
     text-decoration: aqua;
 }
 
+a {
+    flex-direction: row;
+}
+
+
 body { 
     background-color: black;
     padding: 15;
